@@ -24,6 +24,7 @@ urljoin: Combina dos URLs para crear una URL absoluta bien formada.
 
 # Instrucciones de Uso
 1. Abre el navegador web de tu preferencia y accede a la página web que deseas copiar.
+  ![](https://github.com/hugoheldens/ClonacionWeb/tree/main/Screenshots/im1.png){width='100px'}
 2. Accede al siguiente enlace: https://github.com/hugoheldens/ClonacionWeb
 3. Dentro del repositorio, haz clic en el archivo clonacionWebV4.py.
 4. Una vez dentro del archivo, darás clic en las opciones y luego dar clic en Download
