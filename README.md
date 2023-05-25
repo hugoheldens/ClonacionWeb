@@ -49,14 +49,14 @@ Por último, puede acceder a la carpeta que seleccionó anteriormente, y observa
 
 # Créditos
 El código fue creado por alumnos de la Facultad de Estudios Superiores Aragón:
-Fernández Ávila Hugo
-Hidalgo Lara Jared
-Machorro Chávez Augusto Francisco
-Vega Trejo Javier Raymundo
+* Fernández Ávila Hugo
+* Hidalgo Lara Jared
+* Machorro Chávez Augusto Francisco
+* Vega Trejo Javier Raymundo
 
 # ¿Por qué el proyecto es útil?
 Desde un punto de vista completamente legal la clonación de sitios tiene diversas utilidades para diversos casos como los siguientes
 Realización de copias de seguridad o recuperación: Se puede dar el caso ene cual no podamos tener acceso directo a los archivos de los que se compone nuestro sitio y mediante la clonación podemos obtener una copia de estos
-. Migración del sitio: En el caso de que se tenga que mover un sitio a otro servidor, la clonación es una herramienta que nos ayudaría bastante la transferencia
-. Pruebas y Desarrollo: Al querer realizar cambios o pruebas a nuestro sitio podemos realizar un clonado para así crear un entorno aparte en el cual modifiquemos nuestro sitio sin afectar lo directamente.
+* Migración del sitio: En el caso de que se tenga que mover un sitio a otro servidor, la clonación es una herramienta que nos ayudaría bastante la transferencia
+* Pruebas y Desarrollo: Al querer realizar cambios o pruebas a nuestro sitio podemos realizar un clonado para así crear un entorno aparte en el cual modifiquemos nuestro sitio sin afectar lo directamente.
 
