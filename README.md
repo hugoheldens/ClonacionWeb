@@ -24,30 +24,27 @@ urljoin: Combina dos URLs para crear una URL absoluta bien formada.
 
 # Instrucciones de Uso
 1. Abre el navegador web de tu preferencia y accede a la página web que deseas copiar.
-  ![](Screenshots/im1.png){width='100px'}
 2. Accede al siguiente enlace: https://github.com/hugoheldens/ClonacionWeb
 3. Dentro del repositorio, haz clic en el archivo clonacionWebV4.py.
+![](Screenshots/im1.png)
 4. Una vez dentro del archivo, darás clic en las opciones y luego dar clic en Download
+![](Screenshots/tempsnip.png)
 5. Una vez descargado el archivo, abres el archivo con el IDE de tu preferencia.
 6. Una vez dentro del IDE, ejecutarás este archivo.
+![](Screenshots/im3.png)
 7. Después de ejecutar el archivo, observarás la siguiente ventana.
-
-
-Esta ventana es la interfaz del programa. Dentro de esta misma, en el apartado de URL, colocarás la URL de la página que deseas copiar.
-Después de esto, podrás seleccionar la casilla de Mostrar mas detalles. Si la casilla esta marcada, mostrará detalles de los archivos que se estan descargando:
-
-De lo contrario, solo mostrará un mensaje después de que se termine de copiar la página web.
-
-Después de haber seleccionado o no la casilla de Mostrar mas detalles, y dar clic en el botón de Clonar se abrirá una ventana para seleccionar la carpeta destino donde se almacenarán los archivos descargados y se dará clic en Seleccionar Carpeta.
-
-
-
-A continuación se empezarán a descargar los archivos de la página web, y se mostrará el mensaje Clonado completo una vez terminadas las descargas.
-
-Por último, puede acceder a la carpeta que seleccionó anteriormente, y observará una carpeta con todos los archivos de forma local.
-
-¡Listo! Puede abrir la página de forma local. Esto lo podrás confirmar, ya que dentro de la URL se encuentra la dirección local de donde se encuentran los archivos.
-
+![](Screenshots/imW.png)
+8. Esta ventana es la interfaz del programa. Dentro de esta misma, en el apartado de URL, colocarás la URL de la página que deseas copiar.
+![](Screenshots/im4.png)
+9. Después de esto, podrás seleccionar la casilla de Mostrar mas detalles. Si la casilla esta marcada, mostrará detalles de los archivos que se estan descargando:
+![](Screenshots/Captura5.png)
+10. De lo contrario, solo mostrará un mensaje después de que se termine de copiar la página web.
+11. Después de haber seleccionado o no la casilla de Mostrar mas detalles, y dar clic en el botón de Clonar se abrirá una ventana para seleccionar la carpeta destino donde se almacenarán los archivos descargados y se dará clic en Seleccionar Carpeta.
+![](Screenshots/im6.png)
+12. A continuación se empezarán a descargar los archivos de la página web, y se mostrará el mensaje Clonado completo una vez terminadas las descargas.
+13. Por último, puede acceder a la carpeta que seleccionó anteriormente, y observará una carpeta con todos los archivos de forma local.
+14. ¡Listo! Puede abrir la página de forma local. Esto lo podrás confirmar, ya que dentro de la URL se encuentra la dirección local de donde se encuentran los archivos.
+![](Screenshots/im7.png)
 # Créditos
 El código fue creado por alumnos de la Facultad de Estudios Superiores Aragón:
 * Fernández Ávila Hugo
