@@ -25,12 +25,12 @@ urljoin: Combina dos URLs para crear una URL absoluta bien formada.
 # Instrucciones de Uso
 1. Abre el navegador web de tu preferencia y accede a la página web que deseas copiar.
 2. Accede al siguiente enlace: https://github.com/hugoheldens/ClonacionWeb
-3. Dentro del repositorio, haz clic en el archivo clonacionWebV4.py.
+3. Dentro del repositorio, haz clic en el archivo clonacionWebV4.py. (nota: para sistemas operativos windows puedes seleccionar cloacionWeb4.rar)
 ![](Screenshots/im1.png)
 4. Una vez dentro del archivo, darás clic en las opciones y luego dar clic en Download
 ![](Screenshots/tempsnip.png)
-5. Una vez descargado el archivo, abres el archivo con el IDE de tu preferencia.
-6. Una vez dentro del IDE, ejecutarás este archivo.
+5. Una vez descargado el archivo, abres el archivo con el IDE de tu preferencia.(nota: para sistemas operativos windows simplemente descomprime la carpeta clonacionWeb4.rar en la carpeta de tu preferencia)
+6. Una vez dentro del IDE, ejecutarás este archivo. (nota: para sistemas operativos windwows simplemente abrir la carpeta que se descomprimio buscar y ejecutar el archivo clonacionWebV4.exe)
 ![](Screenshots/im3.png)
 7. Después de ejecutar el archivo, observarás la siguiente ventana.
 ![](Screenshots/imW.png)
